@@ -13,6 +13,3 @@ For your demo:
  6) Depend on your understanding, you select [Correct], [Easy], [Mistake], [Difficult] button, 
     and it change the period to re-try the question.
 
-MySql Database:
- Server: gotit.smagai.com:3306
- User/Pass: usersql / 20220622
